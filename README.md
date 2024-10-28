@@ -24,6 +24,11 @@
 
 **SmartHospital** centralizes and analyzes data such as heart rate, blood pressure, blood oxygen level, and temperature, offering a complete and continuous view of the patient’s health. Leveraging Machine Learning, the system can predict medical emergencies and support data-driven clinical decisions.
 
+<img width="1680" alt="Capture d’écran 2024-10-19 à 11 35 31 AM" src="https://github.com/user-attachments/assets/b1c8d7ba-0c26-4d62-b9f8-e7bd4050e7ee">
+
+
+
+
 ---
 
 ## Features
@@ -33,6 +38,8 @@
 - **Health History Visualization**: Stores historical data for future reference.
 - **Automated Reports**: Generates reports to support clinical analysis.
 - **Health Crisis Prediction**: Uses AI algorithms to predict potential emergencies.
+
+
 
 ---
 
@@ -45,6 +52,7 @@
 - **Machine Learning**: AI models for predictive data analysis
 
 ---
+<img width="1680" alt="Capture d’écran 2024-10-24 à 10 54 19 PM" src="https://github.com/user-attachments/assets/aac11999-c54b-47fc-bb07-1dca2b60b668">
 
 ## Installation
 
@@ -66,6 +74,10 @@
    ```
 
 4. **Database Setup**: Create the database in PostgreSQL or MySQL, and configure the credentials in the `settings.py` file.
+
+<img width="1680" alt="Capture d’écran 2024-10-24 à 10 43 01 PM" src="https://github.com/user-attachments/assets/78d7555e-3cbf-4a3c-9ca9-5519d175b09d">
+
+
 
 5. **Run migrations**:
    ```bash
