@@ -24,7 +24,7 @@
 
 **SmartHospital** centralizes and analyzes data such as heart rate, blood pressure, blood oxygen level, and temperature, offering a complete and continuous view of the patient’s health. Leveraging Machine Learning, the system can predict medical emergencies and support data-driven clinical decisions.
 
-<img width="1680" alt="Capture d’écran 2024-10-19 à 11 35 31 AM" src="https://github.com/user-attachments/assets/b1c8d7ba-0c26-4d62-b9f8-e7bd4050e7ee">
+<img width="1680" alt="Capture d’écran 2024-10-24 à 10 51 18 PM" src="https://github.com/user-attachments/assets/b4639f74-e0fd-4c72-ad5c-e3a55ef5a9ac">
 
 
 
